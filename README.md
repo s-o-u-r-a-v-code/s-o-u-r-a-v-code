@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @s-o-u-r-a-v-code
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning Advance python, DSA, DBMS
-- 💞️ I’m looking to collaborate on ...
 - 📫 sonimallick58@gmail.com
   
 
